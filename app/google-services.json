@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1026720972494",
+    "firebase_url": "https://lanchonete-a0747.firebaseio.com",
+    "project_id": "lanchonete-a0747",
+    "storage_bucket": "lanchonete-a0747.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026720972494:android:2b5251845d8ceb42",
+        "android_client_info": {
+          "package_name": "dextra.com.br.lanchonete"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026720972494-84o1vk47ahstdc344bv745a3f484vrmk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dextra.com.br.lanchonete",
+            "certificate_hash": "4716f8c96cee69dee189c8b8200d541d70b49967"
+          }
+        },
+        {
+          "client_id": "1026720972494-sivs6k13aelguceho4sudoa8504c8197.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGsZYmdc6BZndU26l3MbEucaHpYdRl2ZM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026720972494-sivs6k13aelguceho4sudoa8504c8197.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
